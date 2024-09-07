@@ -1,0 +1,38 @@
+,imdb_id,title,Genre,popularity,vote_average,vote_count,budget,revenue,financial_success,Rated,Actors,imdbRating,imdbVotes,imdb_rating,rotten_tomatoes_rating,metacritic_rating,outcome
+0,tt6263850,Deadpool & Wolverine,"Action, Comedy",3094.232,7.756,2654,200000000,1262160117,True,R,"Ryan Reynolds, Morena Baccarin, T.J. Miller",8.0,"1,159,415",8.0,85.0,65.0,1
+19,tt27682129,Prey,"Action, Adventure, Horror",645.6,6.433,210,0,0,False,R,"Amber Midthunder, Dakota Beavers, Dane DiLiegro",7.1,"233,550",7.1,94.0,71.0,0
+20,tt0094721,Beetlejuice,"Comedy, Fantasy",636.789,7.385,6762,15000000,74849333,True,PG,"Alec Baldwin, Geena Davis, Michael Keaton",7.5,"348,874",7.5,86.0,70.0,1
+28,tt0295701,xXx,"Action, Adventure, Thriller",406.596,5.937,4172,70000000,277448382,True,PG-13,"Vin Diesel, Asia Argento, Marton Csokas",5.8,"187,525",5.8,48.0,48.0,0
+33,tt23778968,Thelma,"Drama, Fantasy, Horror",294.782,7.1,93,5000000,9818454,True,Not Rated,"Eili Harboe, Kaya Wilkins, Henrik Rafaelsen",7.0,"37,145",7.0,92.0,74.0,0
+34,tt4154756,Avengers: Infinity War,"Action, Adventure, Sci-Fi",305.517,8.247,29386,300000000,2052415039,True,PG-13,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",8.4,"1,226,533",8.4,85.0,68.0,1
+39,tt0389722,30 Days of Night,"Action, Horror, Thriller",295.439,6.421,2711,30000000,75505973,True,R,"Josh Hartnett, Melissa George, Danny Huston",6.6,"190,890",6.6,51.0,53.0,0
+40,tt0078748,Alien,"Horror, Sci-Fi",254.345,8.154,14437,11000000,104931801,True,R,"Sigourney Weaver, Tom Skerritt, John Hurt",8.5,"964,356",8.5,93.0,89.0,1
+46,tt2096673,Inside Out,"Animation, Adventure, Comedy",229.819,7.914,21575,175000000,857611174,True,PG,"Amy Poehler, Bill Hader, Lewis Black",8.1,"818,922",8.1,98.0,94.0,1
+48,tt0327597,Coraline,"Animation, Drama, Family",224.1,7.885,7816,60000000,170485142,True,PG,"Dakota Fanning, Teri Hatcher, John Hodgman",7.8,"269,771",7.8,91.0,80.0,1
+53,tt2316204,Alien: Covenant,"Horror, Sci-Fi, Thriller",184.248,6.1,8446,97000000,240891763,True,R,"Michael Fassbender, Katherine Waterston, Billy Crudup",6.4,"311,682",6.4,65.0,65.0,0
+55,tt12412888,Sonic the Hedgehog 2,"Action, Adventure, Comedy",212.502,7.512,4860,110000000,405421518,True,PG,"James Marsden, Jim Carrey, Ben Schwartz",6.5,"90,487",6.5,68.0,47.0,0
+56,tt22334258,Someone Like You,"Comedy, Romance",191.393,5.115,13,0,5937306,True,PG-13,"Ashley Judd, Greg Kinnear, Hugh Jackman",6.1,"27,645",6.1,42.0,32.0,0
+57,tt10872600,Spider-Man: No Way Home,"Action, Adventure, Fantasy",208.228,7.961,19826,200000000,1921847111,True,PG-13,"Tom Holland, Zendaya, Benedict Cumberbatch",8.2,"901,293",8.2,93.0,71.0,1
+58,tt1431045,Deadpool,"Action, Comedy",207.419,7.621,30666,58000000,782837347,True,R,"Ryan Reynolds, Morena Baccarin, T.J. Miller",8.0,"1,159,415",8.0,85.0,65.0,1
+62,tt5090568,Transformers: Rise of the Beasts,"Action, Adventure, Sci-Fi",203.318,7.318,4443,195000000,439000000,True,PG-13,"Anthony Ramos, Dominique Fishback, Luna Lauren Velez",6.0,"109,383",6.0,52.0,42.0,0
+63,tt9362722,Spider-Man: Across the Spider-Verse,"Animation, Action, Adventure",197.045,8.356,6726,100000000,690897910,True,PG,"Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",8.6,"394,549",8.6,95.0,86.0,1
+64,tt0111161,The Shawshank Redemption,Drama,197.019,8.7,26755,25000000,28341469,True,R,"Tim Robbins, Morgan Freeman, Bob Gunton",9.3,"2,932,194",9.3,89.0,82.0,1
+65,tt0120737,The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama",195.321,8.414,24804,93000000,871368364,True,PG-13,"Elijah Wood, Ian McKellen, Orlando Bloom",8.9,"2,035,018",8.9,92.0,92.0,1
+67,tt10366206,John Wick: Chapter 4,"Action, Crime, Thriller",193.27,7.742,6284,90000000,440157245,True,R,"Keanu Reeves, Laurence Fishburne, George Georgiou",7.7,"349,117",7.7,94.0,78.0,1
+69,tt5433140,Fast X,"Action, Adventure, Crime",187.504,7.1,5429,340000000,704709660,True,PG-13,"Vin Diesel, Michelle Rodriguez, Jason Statham",5.7,"124,108",5.7,56.0,56.0,0
+70,tt0090605,Aliens,"Action, Adventure, Sci-Fi",175.016,7.944,9521,18500000,183316455,True,R,"Sigourney Weaver, Michael Biehn, Carrie Henn",8.4,"772,422",8.4,94.0,84.0,1
+71,tt6718170,The Super Mario Bros. Movie,"Animation, Adventure, Comedy",199.839,7.657,8867,100000000,1362000000,True,PG,"Chris Pratt, Anya Taylor-Joy, Charlie Day",7.0,"246,752",7.0,59.0,46.0,0
+73,tt0167260,The Lord of the Rings: The Return of the King,"Action, Adventure, Drama",182.54,8.48,23874,94000000,1118888979,True,PG-13,"Elijah Wood, Viggo Mortensen, Ian McKellen",9.0,"2,004,761",9.0,94.0,94.0,1
+75,tt14966898,Late Night with the Devil,Horror,178.747,7.338,773,2000000,11902746,True,R,"David Dastmalchian, Laura Gordon, Ian Bliss",7.0,"74,614",7.0,97.0,71.0,0
+76,tt0816692,Interstellar,"Adventure, Drama, Sci-Fi",176.953,8.44,35103,165000000,701729206,True,PG-13,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",8.7,"2,153,343",8.7,73.0,74.0,1
+77,tt5463162,Deadpool 2,"Action, Adventure, Comedy",166.662,7.492,17661,110000000,785896632,True,R,"Ryan Reynolds, Josh Brolin, Morena Baccarin",7.6,"670,737",7.6,84.0,66.0,1
+78,tt0848228,The Avengers,"Action, Sci-Fi",170.174,7.718,30453,220000000,1518815515,True,PG-13,"Robert Downey Jr., Chris Evans, Scarlett Johansson",8.0,"1,473,547",8.0,91.0,69.0,1
+80,tt4154796,Avengers: Endgame,"Action, Adventure, Drama",166.696,8.252,25321,356000000,2799439100,True,PG-13,"Robert Downey Jr., Chris Evans, Mark Ruffalo",8.4,"1,289,838",8.4,94.0,78.0,1
+82,tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy",162.007,7.137,10466,180000000,745013115,True,PG,"Tilda Swinton, Georgie Henley, William Moseley",6.9,"432,765",6.9,75.0,75.0,0
+85,tt0468569,The Dark Knight,"Action, Crime, Drama",158.205,8.516,32493,185000000,1004558444,True,PG-13,"Christian Bale, Heath Ledger, Aaron Eckhart",9.0,"2,907,659",9.0,94.0,84.0,1
+86,tt2310332,The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy",143.051,7.323,14065,250000000,956019788,True,R,"Ian McKellen, Martin Freeman, Richard Armitage",7.4,"579,526",7.4,59.0,59.0,0
+88,tt0062622,2001: A Space Odyssey,"Adventure, Sci-Fi",156.954,8.071,11327,12000000,71923560,True,G,"Keir Dullea, Gary Lockwood, William Sylvester",8.3,"727,429",8.3,92.0,84.0,1
+91,tt0068646,The Godfather,"Crime, Drama",152.632,8.69,20303,6000000,245066411,True,R,"Marlon Brando, Al Pacino, James Caan",9.2,"2,039,832",9.2,97.0,100.0,1
+92,tt14539318,The Beast Within,Horror,153.965,5.622,45,0,51860,True,R,"Ronny Cox, Bibi Besch, Paul Clemens",5.6,"4,681",5.6,17.0,42.0,0
+94,tt15398776,Oppenheimer,"Biography, Drama, History",151.293,8.094,8881,100000000,952000000,True,R,"Cillian Murphy, Emily Blunt, Matt Damon",8.3,"780,426",8.3,93.0,88.0,1
+99,tt1951265,The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi",145.967,6.811,15623,125000000,755356711,True,PG-13,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",6.6,"509,884",6.6,69.0,64.0,0
