@@ -36,22 +36,14 @@ This directory contains examples of private information such as API keys, tokens
 Python
 Copy code
 ```
-api_key = '<SOME_VALUE>'
-fromdate = '1/1/2020'
-todate = '2/1/2020'
+tmdb_key = '<SOME_VALUE>'
+omdb_api_key_0_yp = '<SOME_VALUE>'
+omdb_api_key_1_yp = '<SOME_VALUE>'
+omdb_api_key_2_mt = '<SOME_VALUE>'
+omdb_api_key_3_al = '<SOME_VALUE>'
+omdb_api_key_4_aj = '<SOME_VALUE>'
 ```
-[NYC 311 API Documentation](https://api-portal.nyc.gov/product#product=NYC-311-Public-Developers)
 
-- opendata_config.py
-  
-Python
-Copy code
-```
-token311 = '<TOKEN VALUE>'
-username = '<SOME VALUE>'
-password = '<SOME VALUE>'
-```
-[Socrata API Documentation](https://dev.socrata.com/foundry/data.cityofnewyork.us/erm2-nwe9)
 
 
 #### Project 4 Project Proposal.docx
