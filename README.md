@@ -54,6 +54,8 @@ This folder contains a series of attempts to improve our model accuracy, showcas
 - **Project 4 Project Proposal.docx**: Contains the initial proposal for this project.
 - **Project 4 Analysis.docx**: Contains our final written analysis for the complete project.
 
+#### Project Presentation
+
 #### data_processing&analysis.ipynb
 The notebook `data_processing&analysis.ipynb` details the process of preparing our data, including one-hot encoding and exploratory analysis.
 
