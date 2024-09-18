@@ -61,7 +61,6 @@ The notebook `data_processing&analysis.ipynb` details the process of preparing o
 #### Machine Learning Models
 The following files contain our final attempts at machine learning models, where we achieved an accuracy of 75%:
 - `tensor_flow_final.ipynb`
-- `logistic_regression_final.ipynb`
 - `random_forest_final.ipynb`
 
 
