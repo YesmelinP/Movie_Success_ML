@@ -75,8 +75,8 @@ The following files contain our final attempts at machine learning models, where
 
 #### Team Members & Responsabilities
 - [x] **Yesmelin Perdomo**: ETL,presentation, data processing and analysis (Spark), machine learning models, visualizations, and Git organization.
-- [x] **Amanda Lor**: Machine learning models, presentation, and visualization.
-- [x] **Alyssa Jones**: Machine learning models, presentation, and written analysis.
+- [x] **Amanda Lor**: Machine learning models, presentation, visualization and written analysis.
+- [x] **Alyssa Jones**: Machine learning models, presentation, visualization and written analysis.
 - [x] **Marisol Trejo**: Machine learning models, presentation, and visualization.
 
 #### Help
