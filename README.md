@@ -1,4 +1,4 @@
-# Stream_Success_ML
+# Movie_Success_ML
 #### Project 4: Team #5
 
 ## Overview
