@@ -1,6 +1,5 @@
 # Movie_Success_ML
 #### Project 4: Team #5
-This powerpoint presentation contains our final presentation. Displaying visualizations and the steps we took to create our machine learning models.
 
 ## Overview
 This project aims to predict whether a movie will be successful prior to its release, based on factors such as revenue, popularity, IMDb rating, Rotten Tomatoes rating, and Metacritic rating.
@@ -55,8 +54,8 @@ This folder contains a series of attempts to improve our model accuracy, showcas
 - **Project 4 Project Proposal.docx**: Contains the initial proposal for this project.
 - **Project 4 Analysis.docx**: Contains our final written analysis for the complete project.
 
-#### Project Presentation
-- Movie Success Rate.pptx
+#### Movie Success.pptx
+This powerpoint presentation contains our final presentation. Displaying visualizations and the steps we took to create our machine learning models.
 
 #### data_processing&analysis.ipynb
 The notebook `data_processing&analysis.ipynb` details the process of preparing our data, including one-hot encoding and exploratory analysis.
