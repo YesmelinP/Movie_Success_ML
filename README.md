@@ -1,5 +1,6 @@
 # Movie_Success_ML
 #### Project 4: Team #5
+This powerpoint presentation contains our final presentation. Displaying visualizations and the steps we took to create our machine learning models.
 
 ## Overview
 This project aims to predict whether a movie will be successful prior to its release, based on factors such as revenue, popularity, IMDb rating, Rotten Tomatoes rating, and Metacritic rating.
